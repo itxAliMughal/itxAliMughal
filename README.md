@@ -174,7 +174,7 @@
   <h3>⭐ Love what you see? Consider giving a star! ⭐</h3>
 
   
-  ![Made with ❤️ by Moosa](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg)
+  ![Made with ❤️ by Muhammad Ali](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg)
 </div>
 
 <!-- Custom Footer -->
