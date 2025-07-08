@@ -75,7 +75,7 @@
 [![Stack](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
 
 #### 🛠️ CMS / eCommerce
-[![Stack](https://skillicons.dev/icons?i=wordpress,shopify)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
 <span>&nbsp;</span>
   <img src="https://play-lh.googleusercontent.com/PLiiyY4mk3jTy7XxZj9FGvztn12qdefPWJtxDfpBCvPUt4PBdhdjiQPJ5EbgeAZZLw=w480-h960-rw" alt="Shopify" width="45" height="45" style="border-radius:16px;" />
 
