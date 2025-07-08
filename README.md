@@ -101,7 +101,7 @@
 
 <div align="center">
   <h3>⭐ Love what you see? Consider giving a star! ⭐</h3>
-  ![Made with ❤️ by Muhammad Ali](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg)
+  !Made by  Muhammad Ali ❤️ (https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg)
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
