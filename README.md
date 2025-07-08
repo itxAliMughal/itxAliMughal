@@ -32,6 +32,22 @@
     </p>
   </details>
 </div>
+<div align="center">
+  <details>
+    <summary style="font-size: 2.5em;"><b>🌟 Client Reviews</b></summary>
+    <br>
+    <p style="font-size: 1.3em; text-align: left; max-width: 800px; margin: auto;">
+      <b>🇺🇸 John D. (USA)</b><br/>
+      "Muhammad Ali is a highly skilled full-stack developer. He delivered our React + Node.js project on time with outstanding quality. Communication was smooth and professional. Will definitely hire again!"<br/><br/>
+
+      <b>🇦🇪 Sara M. (UAE)</b><br/>
+      "Absolutely amazing work on our mobile app! Muhammad built a smooth, fast, and beautiful React Native app for both iOS and Android. His attention to detail is top-notch."<br/><br/>
+
+      <b>🇵🇰 Bilal A. (Pakistan)</b><br/>
+      "Outstanding developer! Built a complete MERN stack platform for my startup. He also helped deploy it on Vercel & set up Firebase auth. Highly recommended for any serious project." <br/><br/>
+    </p>
+  </details>
+</div>
 
 <br>
 
