@@ -66,7 +66,7 @@
 #### 📱 Mobile App Development  
 [![Stack](https://skillicons.dev/icons?i=react,reactnative)](https://skillicons.dev)
 <span>&nbsp;</span>
-<span style="display:inline-block; background:black; padding:8px; border-radius:12px;">
+<span style="display:inline-block; background:#242938; padding:8px; border-radius:12px;">
   <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s=w480-h960-rw" alt="Expo Go" width="30" height="30" style="border-radius:6px;" />
 </span>
 
