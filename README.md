@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=✨+Welcome+to+my+Digital+Home!+✨;Hi+There!+👋;I'm+Muhammad+Ali!;+A+MERN+Stack+and+App+Developer+💻📱" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=✨+Welcome+to+my+Digital+Home!+✨;Hi+There!+👋;I'm+Muhammad+Ali!;+A+Web+and+App+Developer+💻📱" />
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
 
 <h3 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" height="20">
-  A Passionate Web & App Developer (Mern + iOS + Android) from Pakistan 
+  A Passionate Mern Stack & App Developer (iOS + Android) from Pakistan 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 
