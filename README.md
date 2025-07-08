@@ -66,7 +66,7 @@
 #### 📱 Mobile App Development  
 [![Stack](https://skillicons.dev/icons?i=react,reactnative)](https://skillicons.dev)
 <span>&nbsp;</span>
-  <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s=w480-h960-rw" alt="Expo Go" width="60" height="60" style="border-radius:16px;" />
+  <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s=w480-h960-rw" alt="Expo Go" width="45" height="45" style="border-radius:16px;" />
 
 #### 🎨 UI & Styling
 [![Stack](https://skillicons.dev/icons?i=tailwind,bootstrap,vite,vercel)](https://skillicons.dev)
