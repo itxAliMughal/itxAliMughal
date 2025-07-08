@@ -64,7 +64,7 @@
 
 
 #### 📱 Mobile App Development  
-[![Stack](https://skillicons.dev/icons?i=react,reactnative)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 <span>&nbsp;</span>
   <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s=w480-h960-rw" alt="Expo Go" width="45" height="45" style="border-radius:16px;" />
 
@@ -76,6 +76,8 @@
 
 #### 🛠️ CMS / eCommerce
 [![Stack](https://skillicons.dev/icons?i=wordpress,shopify)](https://skillicons.dev)
+<span>&nbsp;</span>
+  <img src="PLiiyY4mk3jTy7XxZj9FGvztn12qdefPWJtxDfpBCvPUt4PBdhdjiQPJ5EbgeAZZLw" alt="Expo Go" width="45" height="45" style="border-radius:16px;" />
 
 ---
 
