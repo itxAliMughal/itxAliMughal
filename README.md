@@ -71,7 +71,7 @@
 #### 🎨 UI & Styling
 [![Stack](https://skillicons.dev/icons?i=tailwind,bootstrap,vite,vercel)](https://skillicons.dev)
 <span>&nbsp;</span>
-  <img src="https://pbs.twimg.com/profile_images/1713633504431394816/h28jJ1qM_400x400.jpg" alt="Expo Go" width="60" height="60" style="border-radius:16px;" />
+  <img src="https://pbs.twimg.com/profile_images/1713633504431394816/h28jJ1qM_400x400.jpg" alt="Expo Go" width="55" height="55" style="border-radius:16px;" />
 
 #### 🧰 Tools & Platforms
 [![Stack](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
