@@ -77,7 +77,7 @@
 #### 🛠️ CMS / eCommerce
 [![Stack](https://skillicons.dev/icons?i=wordpress,shopify)](https://skillicons.dev)
 <span>&nbsp;</span>
-  <img src="PLiiyY4mk3jTy7XxZj9FGvztn12qdefPWJtxDfpBCvPUt4PBdhdjiQPJ5EbgeAZZLw" alt="Expo Go" width="45" height="45" style="border-radius:16px;" />
+  <img src="https://play-lh.googleusercontent.com/PLiiyY4mk3jTy7XxZj9FGvztn12qdefPWJtxDfpBCvPUt4PBdhdjiQPJ5EbgeAZZLw=w480-h960-rw" alt="Shopify" width="45" height="45" style="border-radius:16px;" />
 
 ---
 
