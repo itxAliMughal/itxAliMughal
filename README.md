@@ -17,7 +17,7 @@
     <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itxAliMughal&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" /> -->
     <br/>
     <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=itxAliMughal&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" /> -->
-    <img height="180em" src="https://miro.medium.com/v2/resize:fit:1400/1*2M7O71a5-r7zYbm2Sr6mYQ.png" alt="Top Languages" />
+    <img height="240em" src="https://miro.medium.com/v2/resize:fit:1400/1*2M7O71a5-r7zYbm2Sr6mYQ.png" alt="Top Languages" />
   </a>
 </p> 
 
@@ -38,7 +38,7 @@
     <summary style="font-size: 2.5em;"><b>🌟 Client Reviews</b></summary>
     <br>
     <p style="font-size: 1.3em; text-align: left; max-width: 800px; margin: auto;">
-      <b>🇺🇸 John D. (USA)</b><br/>
+      <b>🇺🇸 Jess D. (USA)</b><br/>
       Muhammad Ali is a highly skilled full-stack developer. He delivered our React + Node.js project on time with outstanding quality. Communication was smooth and professional. Will definitely hire again!<br/><br/>
 
       🇦🇪 Sara M. (UAE)
