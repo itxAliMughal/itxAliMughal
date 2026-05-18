@@ -12,13 +12,14 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 
-<!-- <p align="center">
+ <p align="center">
   <a href="https://github.com/itxAliMughal">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itxAliMughal&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itxAliMughal&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" /> -->
     <br/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=itxAliMughal&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=itxAliMughal&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" /> -->
+    <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs?username=itxAliMughal&layout=compact&langs_count=8&theme=algolia](https://miro.medium.com/v2/resize:fit:1400/1*2M7O71a5-r7zYbm2Sr6mYQ.png" alt="Top Languages" />
   </a>
-</p> -->
+</p> 
 
 <br>
 
